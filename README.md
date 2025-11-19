@@ -1,4 +1,4 @@
 # HypeVPR
-Official implementation of HypeVPR.
+Official implementation of **HypeVPR**, our hierarchical hyperbolic embedding framework for perspective-to-equirectangular visual place recognition.
 
-Codes will be coming soon!
+Code and models will be released soon!
